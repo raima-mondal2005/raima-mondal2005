@@ -1,16 +1,23 @@
-## Hi there 👋
+# Pro-Raima-01 – Junior Frontend Developer
 
-<!--
-**raima-mondal2005/raima-mondal2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Raima Mondal
 
-Here are some ideas to get you started:
+Junior Frontend Developer from India, passionate about designing and developing modern, responsive, and user-friendly web applications. Skilled in HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, and MySQL, with an interest in full-stack development, REST API integration, and creating practical digital solutions. Always eager to explore new technologies, improve coding skills, and collaborate on innovative projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Open to Opportunities**
+
+[View CV](https://haproid.netlify.app/user/pro-raima-01/cv) · [Portfolio](https://haproid.netlify.app/user/pro-raima-01/) · [HaproID](https://haproid.netlify.app/user/pro-raima-01/)
+
+---
+
+### Tech Stack
+
+`HTML5` `CSS3` `JavaScript` `React.js` `Node.js` `Express.js` `MongoDB` `MySQL` `REST APIs` `Git` `GitHub`
+
+### Focus Areas
+
+**Frontend Development** · **MERN Stack** · **Responsive Web Design** · **Web Applications**
+
+---
+
+**HaproID:** Pro-Raima-01 · **Location:** India · **Email:** [raimamondal59@gmail.com](mailto:raimamondal59@gmail.com)
